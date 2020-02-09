@@ -1,0 +1,26 @@
+<scheme name="_@user_Visual Studio Dark" version="142" parent_scheme="Visual Studio Dark">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-02-26T18:42:05</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2017.3.1.0.0</property>
+    <property name="modified">2018-06-13T15:44:13</property>
+    <property name="originalScheme">Visual Studio Dark</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <attributes>
+    <option name="ReSharper.EVENT_IDENTIFIER">
+      <value />
+    </option>
+    <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="a4a6d7" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
